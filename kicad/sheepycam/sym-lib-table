@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "A4988_STEPPER_MOTOR_DRIVER_CARRIER")(type "KiCad")(uri "F:/Sauce/SheepyCam/kicad/Library/A4988_STEPPER_MOTOR_DRIVER_CARRIER.kicad_sym")(options "")(descr ""))
-  (lib (name "ESP32-WROOM-32D")(type "Legacy")(uri "F:/Sauce/SheepyCam/kicad/Library/ESP32-WROOM-32D.lib")(options "")(descr ""))
+  (lib (name "sheepycam")(type "KiCad")(uri "${KIPRJMOD}/library/sheepycam.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP1825S")(type "KiCad")(uri "${KIPRJMOD}/library/MCP1825S.kicad_sym")(options "")(descr ""))
 )

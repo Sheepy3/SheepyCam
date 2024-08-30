@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
-  (lib (name "ESP32-WROOM-32D")(type "KiCad")(uri "F:/Sauce/SheepyCam/kicad/Library/ESP32-WROOM-32D.pretty")(options "")(descr ""))
-  (lib (name "MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER")(type "KiCad")(uri "F:/Sauce/SheepyCam/kicad/Library/MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER.pretty")(options "")(descr ""))
+  (lib (name "Footprint]Library")(type "KiCad")(uri "${KIPRJMOD}/library/Footprint]Library.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/library/footprints.pretty")(options "")(descr ""))
 )
